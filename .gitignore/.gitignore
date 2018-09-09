@@ -1,0 +1,11 @@
+# Don't track content of these folders
+__pycache__/
+
+
+# Compiled source #
+###################
+*.pyc
+
+# VS files #
+###################
+*.pyproj
